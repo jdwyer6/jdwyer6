@@ -7,9 +7,6 @@ Web Developer
 Web and Game Developer.
 
 * 🌍  I'm based in St. Louis
-* 🚀  I'm currently working on [A full stack freelance project for scheduling jobs and managing clients](http://github.com/jdwyer6/rld-disposal)
-* 🧠  I'm learning .net
-* 🤝  I'm open to collaborating on anything and everything. But especially video games and JavaScript/React related projects.
 
 ### Skills
 
