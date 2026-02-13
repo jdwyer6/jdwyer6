@@ -4,8 +4,8 @@ Hi 👋 My name is Jake
 Web Developer
 -------------
 
-Full-stack developer who loves clean UI, fast load times, and building tools that actually make people’s lives easier.
-My daily toolkit includes Next.js, React, JavaScript, PHP, MySQL, Tailwind, Alpine.js, Firebase, and Google Cloud, plus a healthy dose of Photoshop + Figma for design work.
+Full-stack developer who loves building cool stuff.
+My daily toolkit includes Next.js, React, JavaScript, PHP, MySQL, Tailwind, Alpine.js, Firebase, and Google Cloud, plus Photoshop + Figma for design work.
 
 ### Skills
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" /></a>
