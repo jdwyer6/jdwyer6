@@ -8,6 +8,8 @@ Full-stack developer who loves building cool stuff.
 My daily toolkit includes Next.js, React, JavaScript, PHP, MySQL, Tailwind, Alpine.js, Firebase, and Google Cloud, plus Photoshop + Figma for design work.
 
 ### Skills
+
+<p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -26,7 +28,7 @@ My daily toolkit includes Next.js, React, JavaScript, PHP, MySQL, Tailwind, Alpi
 <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/ytc/AIdro_nvBz7NqQm8DcjhnnbdPubaNq9Q8zKwPi49pElthZdU8r2Z=s900-c-k-c0x00ffffff-no-rj" width="36" height="36" alt="Google Analytics" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
-
+</p>
 
 ### Socials
 
