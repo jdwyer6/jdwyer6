@@ -38,4 +38,9 @@ My daily toolkit includes Next.js, React, JavaScript, PHP, MySQL, Tailwind, Alpi
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jdwyer6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dwyer-jake25/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<table>
+<tr>
+<td align="center"><a href="https://www.github.com/jdwyer6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/dwyer-jake25/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a></td>
+</tr>
+</table>
